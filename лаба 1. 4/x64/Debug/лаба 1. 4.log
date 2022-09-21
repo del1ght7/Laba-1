@@ -1,0 +1,14 @@
+﻿  лаба 1. 4.cpp
+C:\Users\User\Desktop\лаба 1. 4\лаба 1. 4.cpp(21,8): error C2664: "int strcmp_(char *,char *)": невозможно преобразовать аргумент 2 из "const char [12]" в "char *"
+C:\Users\User\Desktop\лаба 1. 4\лаба 1. 4.cpp(21,22): message : При преобразовании из строкового литерала теряется квалификатор (см. /Zc:strictStrings)
+C:\Users\User\Desktop\лаба 1. 4\лаба 1. 4.cpp(3,5): message : см. объявление "strcmp_"
+C:\Users\User\Desktop\лаба 1. 4\лаба 1. 4.cpp(24,13): error C2664: "int strcmp_(char *,char *)": невозможно преобразовать аргумент 2 из "const char [17]" в "char *"
+C:\Users\User\Desktop\лаба 1. 4\лаба 1. 4.cpp(24,27): message : При преобразовании из строкового литерала теряется квалификатор (см. /Zc:strictStrings)
+C:\Users\User\Desktop\лаба 1. 4\лаба 1. 4.cpp(3,5): message : см. объявление "strcmp_"
+C:\Users\User\Desktop\лаба 1. 4\лаба 1. 4.cpp(24,13): error C2664: "int strcmp_(char *,char *)": невозможно преобразовать аргумент 2 из "const char [6]" в "char *"
+C:\Users\User\Desktop\лаба 1. 4\лаба 1. 4.cpp(24,63): message : При преобразовании из строкового литерала теряется квалификатор (см. /Zc:strictStrings)
+C:\Users\User\Desktop\лаба 1. 4\лаба 1. 4.cpp(3,5): message : см. объявление "strcmp_"
+C:\Users\User\Desktop\лаба 1. 4\лаба 1. 4.cpp(27,13): error C2664: "int strcmp_(char *,char *)": невозможно преобразовать аргумент 2 из "const char [8]" в "char *"
+C:\Users\User\Desktop\лаба 1. 4\лаба 1. 4.cpp(27,27): message : При преобразовании из строкового литерала теряется квалификатор (см. /Zc:strictStrings)
+C:\Users\User\Desktop\лаба 1. 4\лаба 1. 4.cpp(3,5): message : см. объявление "strcmp_"
+C:\Users\User\Desktop\лаба 1. 4\лаба 1. 4.cpp(19,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
